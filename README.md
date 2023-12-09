@@ -8,6 +8,7 @@ Threshold85: biofiltered t20,t10, and t0.
 
 Threshold80: biofiltered t20,t10, and t0.
 
+For a more in-depth exploration of our work, please refer to our [paper](https://aclanthology.org/2023.wmt-1.26/)
 
 # Cite us:
 If you use this corpus, kindly cite our [paper](https://aclanthology.org/2023.wmt-1.26/):
