@@ -11,6 +11,21 @@ Threshold80: biofiltered t20,t10, and t0.
 
 #Cite us:
 If you use our corpus, kindly cite our [paper](https://aclanthology.org/2023.wmt-1.26/):
-
-
+@inproceedings{firdous-rauf-2023-biomedical,
+    title = "Biomedical Parallel Sentence Retrieval Using Large Language Models",
+    author = "Firdous, Sheema  and
+      Rauf, Sadaf Abdul",
+    editor = "Koehn, Philipp  and
+      Haddow, Barry  and
+      Kocmi, Tom  and
+      Monz, Christof",
+    booktitle = "Proceedings of the Eighth Conference on Machine Translation",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.wmt-1.26",
+    pages = "263--270",
+    abstract = "We have explored the effect of in domain knowledge during parallel sentence filtering from in domain corpora. Models built with sentences mined from in domain corpora without domain knowledge performed poorly, whereas model performance improved by more than 2.3 BLEU points on average with further domain centric filtering. We have used Large Language Models for selecting similar and domain aligned sentences. Our experiments show the importance of inclusion of domain knowledge in sentence selection methodologies even if the initial comparable corpora are in domain.",
+}
 
